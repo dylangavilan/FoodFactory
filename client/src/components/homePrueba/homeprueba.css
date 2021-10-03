@@ -1,0 +1,41 @@
+.container-home {
+  background: white;
+  margin: auto;
+}
+.container-home-dos {
+  background-color: white;
+  height: 92.4vh;
+}
+.container-select {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  background: white;
+}
+.select-home {
+  width: 9rem;
+  height: 1.5rem;
+  background: whitesmoke;
+  border: none;
+  font-size: 14px;
+  margin: 0px 10px;
+}
+.select-home:after {
+  content: "\025be";
+  display: table-cell;
+  padding-top: 7px;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  pointer-events: none;
+}
+.button-favs {
+  padding: 5px 10px;
+  background: whitesmoke;
+  border: none;
+  cursor: pointer;
+}

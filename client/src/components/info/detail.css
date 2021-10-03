@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@300&family=Oswald:wght@300&family=Roboto+Condensed:wght@300&display=swap");
+.all {
+  background: url("https://c.pxhere.com/photos/99/f6/background_food_tasty_olives_wooden_background_cooking_plate_kitchen-1369813.jpg!s");
+  width: 98.7vw;
+  height: 90%;
+}
+.body-detail {
+  width: 60rem;
+  margin: auto;
+  border: black 3px solid;
+  backdrop-filter: blur(20px);
+  background: rgba(143, 134, 134, 0.438);
+}
+.body-title-img {
+  width: 60rem;
+}
+.recipe-title {
+  width: 30rem;
+  height: 4rem;
+  float: left;
+  padding-top: 20px;
+  color: rgb(90, 224, 224);
+}
+.body-recipe-summary {
+  padding-top: 4rem;
+}
+.recipe-summary {
+  text-align: left;
+  color: whitesmoke;
+  font-family: "Oswald", sans-serif;
+  margin: 20px;
+}
+.img-detail {
+  width: 28rem;
+  height: 15rem;
+  float: right;
+}
+.recipe-image {
+  border: solid 2px salmon;
+  width: 24rem;
+  height: 15rem;
+  border-radius: 20px;
+}
+
+.steps-title {
+  color: azure;
+  font-size: 23px;
+}
+
+.detail-diet-steps {
+  display: inline-block;
+}
+.diets-detail {
+  border-left: white 2px solid;
+  width: 14rem;
+  text-align: center;
+}
+.steps-detail {
+  float: left;
+}
+.step-box {
+  text-align: start;
+}
+.detail-body-steps {
+  text-align: initial;
+  margin: 20px;
+  font-family: "Oswald", sans-serif;
+  color: whitesmoke;
+}
+.span-diet {
+  background-color: #444444;
+  margin: 10px;
+  color: whitesmoke;
+  font-family: "Oswald", sans-serif;
+}

@@ -1,0 +1,42 @@
+.inputsearch {
+  border-radius: 8rem;
+  margin-right: 0.7rem;
+  padding-left: 0.5rem;
+  padding-right: 6rem;
+  border-style: none;
+}
+.form {
+  display: flex;
+
+  height: 1.5rem;
+}
+.faSearch-icon {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+a:focus {
+  text-decoration: none;
+  color: black;
+}
+a:hover,
+a:active {
+  text-decoration: none;
+  color: black;
+}
+.search-button {
+  font-size: 0.8rem;
+  color: white;
+  cursor: pointer;
+  background-color: black;
+  border: none;
+  outline: none;
+}

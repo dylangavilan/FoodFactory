@@ -1,0 +1,99 @@
+.form-total {
+  background: url(https://i.pinimg.com/564x/9c/3d/48/9c3d48926c7e94966def78c6e702f919.jpg);
+  height: 100vh;
+}
+.body-form {
+  margin: auto;
+
+  width: 30rem;
+  background-color: rgba(128, 128, 128, 0.616);
+  display: block;
+  border: 20px;
+}
+.diets-form-include {
+  background-color: #00b347;
+}
+.diets-form-no {
+  background-color: blue;
+}
+
+.container-form-title {
+  display: block;
+}
+.form-title {
+  margin: 10px 30px;
+  outline: none;
+  height: 1.4rem;
+  width: 50%;
+  padding: 2.5px 10px;
+  border: none;
+  border-radius: 10px;
+}
+.diets-container-form {
+  border: 2px solid red;
+  display: block;
+  width: 15rem;
+}
+.diets-form {
+  width: 90%;
+  height: 2rem;
+}
+.container-select-diets {
+  display: block;
+  justify-content: center;
+}
+
+.select-diets-form {
+  width: 30rem;
+  height: 2rem;
+  border-radius: 5px;
+  background-color: #161616;
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+}
+.select-diets-form:after {
+  content: "\025be";
+  display: table-cell;
+  padding-top: 7px;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  pointer-events: none;
+}
+.button-form {
+  background-color: #757575;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 12px rgb(0 0 0 / 15%);
+  border: none;
+  display: -webkit-flex;
+  display: flex;
+  float: left;
+  cursor: pointer;
+  color: #fff;
+  height: 2rem;
+  width: 100%;
+  display: table-cell;
+  font-size: 15px;
+}
+.input-steps-form {
+  width: 95%;
+  border-radius: 5px;
+  height: 1.4rem;
+}
+.button-submit-form {
+  height: 3rem;
+  width: 100%;
+  margin-top: 2rem;
+  background-color: #063e7a;
+  display: table-cell;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+}

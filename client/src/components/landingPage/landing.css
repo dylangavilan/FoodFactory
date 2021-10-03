@@ -1,0 +1,18 @@
+.div-landing {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background-image: url(https://img4.goodfon.com/wallpaper/nbig/7/50/guilherme-gomes-chef-3d-shef-povar-eda.jpg);
+}
+.title-landing {
+  font-size: 34px;
+  margin-top: 300px;
+  background: transparent;
+  border-radius: 10px;
+  border: none;
+}
+.title-landing:hover {
+  background-color: tomato;
+}

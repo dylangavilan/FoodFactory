@@ -1,0 +1,38 @@
+.container-nav {
+  height: 3rem;
+  background-color: black;
+  margin-bottom: 3px;
+}
+.ul-nav {
+  background: black;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  width: 70rem;
+  height: 2rem;
+  padding-top: 0.7rem;
+}
+.hamburger {
+  font-size: 25px;
+  color: white;
+  margin: auto;
+  display: block;
+  text-align: left;
+}
+.li-nav {
+  font-size: 20px;
+  color: white;
+  letter-spacing: 2px;
+  display: block;
+  text-align: left;
+  outline: none;
+  background-color: black;
+  border: none;
+  border-radius: 20px;
+  transition: 1s all;
+  cursor: pointer;
+}
+.li-nav:hover {
+  border-radius: 20px;
+}
