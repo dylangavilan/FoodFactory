@@ -9,7 +9,7 @@ Tiene varias funcionalidades entre ellas:
 *  Ordenamiento por rating
 *  Ordenamiento A-Z/Z-A
 *  Ordenamiento por nivel saludable
-*  Sistema de favoritoss
+*  Sistema de favoritos
 *  Creación de recetas propias
 
 
