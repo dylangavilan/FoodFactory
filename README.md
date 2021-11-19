@@ -1,4 +1,4 @@
-# DyFood-
+# Food Factory
 ### `npm-install`
 Deberemos pararnos en la carpeta api y en la carpeta client para ejecutar este comando e instalar todas las dependencias. Tanto de backend como frontend
 ### `npm start`
