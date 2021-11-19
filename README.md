@@ -5,12 +5,13 @@ Deberemos pararnos en la carpeta api y en la carpeta client para ejecutar este c
 Una vez instaladas con este comando podremos correr el server en nuestro localhost:3000
 ### `Descripción`
 Es una aplicación creada como proyecto para el bootcamp Soy Henry, esta misma utiliza información traida desde la api que nos proporciono Spoonacular. 
-Tiene varias funcionalidades entre ella:
--Ordenamiento A-Z/Z-A
--Ordenamiento por rating
--Ordenamiento por nivel saludable
--Sistema de favoritos
--Creación de recetas propias
+Tiene varias funcionalidades entre ellas:
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - Ordenamiento por rating
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - Ordenamiento A-Z/Z-A
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - Ordenamiento por nivel saludable
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)  - Sistema de favoritoss
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)  -Creación de recetas propias
+
 
 ### `Stack tecnologico`
 Para crear esta aplicación utilice varias tecnologias, entre ellas: React, Redux, Css modules, NodeJS, Express, PostgreSQL, Sequelize.
